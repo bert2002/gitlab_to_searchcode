@@ -1,2 +1,3 @@
-# gitlab_to_searchcode
-Import Gitlab projects to Searchcode 
+# Import gitlab projects into searchcode
+
+Import Gitlab projects automatically into searchcode for indexing.
